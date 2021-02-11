@@ -1,4 +1,4 @@
-# test
+# EvilLogger
 this is just a simple token logger i made in like 2 hours
 
 to use it create a webhook on your discord server you want the commands to log to 
